@@ -11,4 +11,8 @@ package com.mycompany.mavenstandalone;
  */
 public class MainClass {
     
+    public static void main(String[] args) {
+        
+        System.out.println("Created Branch");
+    }
 }
